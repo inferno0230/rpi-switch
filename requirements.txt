@@ -1,0 +1,4 @@
+paho-mqtt
+ping3
+dotenv
+RPi.GPIO
