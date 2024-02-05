@@ -4,7 +4,7 @@ import time
 # Class to control the power switch
 class PowerSwitch:
     def __init__(self):
-        self.pin = 14
+        self.pin = 21
 
     def hold(self):
         GPIO.setmode(GPIO.BCM)
