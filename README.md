@@ -27,7 +27,7 @@ This project is designed to control a relay switch which emulates a power switch
 ### main.py
 ```The main execution script initializing and running the MQTT service.```
 
-### Cofiguration for `.env`
+### Configuration for `.env`
 ```plaintext
 MQTT_BROKER_PORT=<Port where mqtt server is listening>
 MQTT_TOPIC=<topic to suscribe to>
